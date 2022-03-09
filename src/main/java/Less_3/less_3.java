@@ -73,6 +73,8 @@ public class less_3
 
 
         System.out.println("ТХЕ ЕНД!!! ");
+
+        System.out.println("**********");
     }
 
 
