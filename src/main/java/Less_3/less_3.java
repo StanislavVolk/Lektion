@@ -1,3 +1,5 @@
+package Less_3;
+
 public class less_3
 {
     public static int summaArr ( int len, int initialValue)
