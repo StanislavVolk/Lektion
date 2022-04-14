@@ -18,7 +18,7 @@ public class Main
         Rabotnik slesar = new Rabotnik("Николай", "Слесарь", "mail@email.ru", 87762763919l,
                 60000,50);
 
-        System.out.println("*************" );
+
 
        Rabotnik.info(slesar);
 
